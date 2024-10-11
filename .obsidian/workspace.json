@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "32ca1b88ec2427f7",
+        "id": "7f571f20ca607977",
         "type": "tabs",
         "children": [
           {
-            "id": "2c701665c8aaad69",
+            "id": "5906feeeea52315a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "4ac94897977cde2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "home.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,12 +138,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ef13f162dca3975",
+  "active": "5906feeeea52315a",
   "lastOpenFiles": [
-    "home.md",
+    "All music.md",
+    "галантерея - 4 утра.md",
+    "rare_disorder - apathy ptr 2.md",
+    "Nrrnberg - Rasplyvajecca.md",
+    "Увула - Лузер rDoomer Editionr.md",
+    "щенки - ненависть rrr rr [slowed].md",
+    "карусель для друзей - Мало Тебя.md",
+    "leehani - рей.md",
+    "despairr - НРКТ r ДОСВИДОШЬ rslowedr.md",
+    "joozi - yourre such a strange girl.md",
+    "trrrrrrrrrr - Почему это вечно со мной происходитr.md",
+    "щенки - шрамы rslow 0r9xr.md",
+    "Trulyr - Буерак   Страсть к Курению.md",
+    "i question my decisions - возвращайся rangel vox coverr.md",
+    "Щенки - День Отца.md",
+    "щенки - шрамы (slow 0.9x).md",
+    "паша техник - disorder.md",
+    "Пошлая Молли - школа не нужна synth punk remix.md",
+    "Truly. - Буерак   Страсть к Курению.md",
+    "immoral character - sssllltttt - надежда.md",
+    "Автоспорт - автоспорт-песня о привязанности.md",
+    "i question my decisions - возвращайся (angel vox cover).md",
+    "Moow - Let Me Alone.md",
+    "HM Surf - this semester.md",
+    "GONE.Fludd - ВУДУ.md",
+    "plenka - Колея.md",
     "netlify.toml",
-    "Новый текстовый документ.txt",
-    "Musiiiicccc.md",
-    "README.md"
+    "Новый текстовый документ.txt"
   ]
 }
